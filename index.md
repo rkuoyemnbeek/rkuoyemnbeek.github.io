@@ -1,5 +1,4 @@
 # Biography
-test
 ![foto_Koen](afb_fb.png){:height="200px" width="200px" align="left"} 
 
 I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace methods for eigenvalue problems.
@@ -7,10 +6,6 @@ I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace 
 For my masters thesis, I worked on algorithms for CT-scanning (something completely different, but nevertheless very interesting!).
 
 On my [github-page](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
-
-
-[![linkedin](linkedin.png){:height="60px" width="60px" align="left"}](https://www.linkedin.com/in/koen-ruymbeek-449673114/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![github](github-logo.png){:height="60px" width="60px" align="left"}](https://github.com/rkuoyemnbeek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![mail](mail.png){:height="60px" width="60px" align="left"}](mailto:koen.ruymbeek@hotmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![google_scholar](google_scholar-logo.png){:height="60px" width="60px" align="left"}](https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ)<br/> 
-
 
 # Interests:
 1. Numerical Linear Algebra
@@ -37,7 +32,9 @@ Preprints:
 2. ICIAM’19, July 15-19 2019, Valencia, Spain: Title: ‘Projection method for approximating the expected value and variance of the minimal/maximal eigenvalue'
 3. ApplMath'20, September 14-18 2020, Brijuni, Croatia: Title: 'Tensor-Krylov methods for parametrized eigenvalue problems'
 
+# Contact
 
+[![linkedin](linkedin.png){:height="60px" width="60px" align="left"}](https://www.linkedin.com/in/koen-ruymbeek-449673114/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![github](github-logo.png){:height="60px" width="60px" align="left"}](https://github.com/rkuoyemnbeek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![mail](mail.png){:height="60px" width="60px" align="left"}](mailto:koen.ruymbeek@hotmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![google_scholar](google_scholar-logo.png){:height="60px" width="60px" align="left"}](https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ)
 
 <!--- ## Welcome to GitHub Pages
 
