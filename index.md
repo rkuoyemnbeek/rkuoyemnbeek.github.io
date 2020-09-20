@@ -8,6 +8,8 @@ For my masters thesis, I worked on algorithms for CT-scanning (something complet
 
 On my [github page](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
 
+
+
 ## Interests:
 1. Numerical Linear Algebra
 2. Eigenvalue problems
@@ -29,7 +31,7 @@ Preprints:
 [pdf](https://arxiv.org/pdf/2006.07473.pdf)
 
 ## Talks
-1. NASCA'18, July 2-6 2018, Kalamata, Greece: Title: ‘Projection method for approximating the minimal eigenvalue of parametrized symmetric matrices’
+1. NASCA'18, July 2-6 2018, Kalamata, Greece: Title: ‘Projection method for approximating the minimal eigenvalue of parametrized symmetric matrices’ [slides](http://nasca18.math.uoa.gr/fileadmin/nasca18.math.uoa.gr/uploads/talks/talk_Koen_Ruymbeek.pdf)
 2. ICIAM’19, July 15-19 2019, Valencia, Spain: Title: ‘Projection method for approximating the expected value and variance of the minimal/maximal eigenvalue'
 3. ApplMath'20, September 14-18 2020, Brijuni, Croatia: Title: 'Tensor-Krylov methods for parametrized eigenvalue problems'
 
