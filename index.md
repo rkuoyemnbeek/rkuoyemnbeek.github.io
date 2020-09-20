@@ -6,9 +6,12 @@ I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace 
 
 For my masters thesis, I worked on algorithms for CT-scanning (something completely different, but nevertheless very interesting!).
 
-On my [![foto_Koen](GitHub-Mark.png)](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
+On my [github-page](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
 
-
+[![linkedin](linkedin.png){:height="20px" width="20px" align="left"}](https://www.linkedin.com/in/koen-ruymbeek-449673114/) &nbsp;&nbsp;&nbsp; 
+[![github](github-logo.png){:height="20px" width="20px" align="left"}](https://github.com/rkuoyemnbeek) &nbsp;&nbsp;&nbsp; 
+[![mail](mail.png){:height="20px" width="20px" align="left"}](mailto:koen.ruymbeek@hotmail.com) &nbsp;&nbsp;&nbsp; 
+https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ
 
 ## Interests:
 1. Numerical Linear Algebra
