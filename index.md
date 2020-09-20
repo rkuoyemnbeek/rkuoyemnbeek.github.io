@@ -15,12 +15,14 @@ On my [github page](https://github.com/rkuoyemnbeek), you can find the code used
 4. Algorithms for CT-scanning
 
 ## Education
-1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;                    2011-2014
+1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   2011-2014
 2. Msc in Financial Mathematics           2014-2016
 3. Phd in Engineering: Computer Science   2017-now
 
 ## Publications
-
+Published papers:
+1. Ruymbeek, K, Vanroose, W. Algorithm for the reconstruction of dynamic objects in CT-scanning using optical flow. Journal of Computational and Applied Mathematics 367 (2020): 112459. [pdf]{https://arxiv.org/pdf/1905.00723.pdf}
+2. Ruymbeek, K, Meerbergen, K, Michiels, W. Calculating the minimal/maximal eigenvalue of symmetric parameterized matrices using projection. Numer Linear Algebra Appl. 2019; 26:e2263 
 
 
 
