@@ -1,7 +1,15 @@
 ## Biography
 
-I am a Phd candidate at the NUMA research unit at KU Leuven working at various kinds of eigenvalue problems. 
+I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace methods for eigenvalue problems. 
 For my masters thesis, I worked on algorithms for CT-scanning (something completely different).
+
+## Interests:
+1. Numerical Linear Algebra
+2. Eigenvalue problems
+3. Tensor decompositions
+4. Algorithms for CT-scanning
+
+
 
 
 ## Welcome to GitHub Pages
