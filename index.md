@@ -8,10 +8,7 @@ For my masters thesis, I worked on algorithms for CT-scanning (something complet
 
 On my [github-page](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
 
-[![linkedin](linkedin.png){:height="20px" width="20px" align="left"}](https://www.linkedin.com/in/koen-ruymbeek-449673114/) &nbsp;&nbsp;&nbsp; 
-[![github](github-logo.png){:height="20px" width="20px" align="left"}](https://github.com/rkuoyemnbeek) &nbsp;&nbsp;&nbsp; 
-[![mail](mail.png){:height="20px" width="20px" align="left"}](mailto:koen.ruymbeek@hotmail.com) &nbsp;&nbsp;&nbsp; 
-[![google_scholar](google_scholar-logo.png){:height="20px" width="20px" align="left"}](https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ)
+[![linkedin](linkedin.png){:height="60px" width="60px" align="left"}](https://www.linkedin.com/in/koen-ruymbeek-449673114/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![github](github-logo.png){:height="60px" width="60px" align="left"}](https://github.com/rkuoyemnbeek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![mail](mail.png){:height="60px" width="60px" align="left"}](mailto:koen.ruymbeek@hotmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![google_scholar](google_scholar-logo.png){:height="60px" width="60px" align="left"}](https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ)
 
 ## Interests:
 1. Numerical Linear Algebra
