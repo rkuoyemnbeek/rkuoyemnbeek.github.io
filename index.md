@@ -11,7 +11,7 @@ On my [github-page](https://github.com/rkuoyemnbeek), you can find the code used
 [![linkedin](linkedin.png){:height="20px" width="20px" align="left"}](https://www.linkedin.com/in/koen-ruymbeek-449673114/) &nbsp;&nbsp;&nbsp; 
 [![github](github-logo.png){:height="20px" width="20px" align="left"}](https://github.com/rkuoyemnbeek) &nbsp;&nbsp;&nbsp; 
 [![mail](mail.png){:height="20px" width="20px" align="left"}](mailto:koen.ruymbeek@hotmail.com) &nbsp;&nbsp;&nbsp; 
-https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ
+[![google_scholar](google_scholar-logo.png){:height="20px" width="20px" align="left"}](https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ)
 
 ## Interests:
 1. Numerical Linear Algebra
