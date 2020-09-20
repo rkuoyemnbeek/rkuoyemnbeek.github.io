@@ -1,9 +1,9 @@
 ## Biography
 
-![foto_Koen](afb_fb.png){:height="250px" width="250px"}
+![foto_Koen](afb_fb.png){:height="250px" width="250px" align="left"}
 
 I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace methods for eigenvalue problems. 
-For my masters thesis, I worked on algorithms for CT-scanning (something completely different).
+For my masters thesis, I worked on algorithms for CT-scanning (something completely different, but nevertheless very interesting!).
 
 ## Interests:
 1. Numerical Linear Algebra
