@@ -6,7 +6,7 @@ I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace 
 
 For my masters thesis, I worked on algorithms for CT-scanning (something completely different, but nevertheless very interesting!).
 
-On my [github page](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
+On my [![foto_Koen](GitHub-Mark.png)](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
 
 
 
@@ -17,8 +17,8 @@ On my [github page](https://github.com/rkuoyemnbeek), you can find the code used
 4. Algorithms for CT-scanning
 
 ## Education
-1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   2011-2014
-2. Msc in Financial Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2014-2016
+1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    2011-2014
+2. Msc in Financial Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2014-2016
 3. Phd in Engineering: Computer Science   2017-now
 
 ## Publications
