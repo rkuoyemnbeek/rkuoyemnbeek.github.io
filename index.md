@@ -1,3 +1,9 @@
+## Biography
+
+I am a Phd candidate at the NUMA research unit at KU Leuven working at various kinds of eigenvalue problems. 
+For my masters thesis, I worked on algorithms for CT-scanning (something completely different).
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rkuoyemnbeek/rkuoyemnbeek.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
