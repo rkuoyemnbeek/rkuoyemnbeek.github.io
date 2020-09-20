@@ -5,6 +5,7 @@
 I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace methods for eigenvalue problems.
 
 For my masters thesis, I worked on algorithms for CT-scanning (something completely different, but nevertheless very interesting!).
+
 On my [github page](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
 
 ## Interests:
