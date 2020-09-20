@@ -15,14 +15,23 @@ On my [github page](https://github.com/rkuoyemnbeek), you can find the code used
 4. Algorithms for CT-scanning
 
 ## Education
-1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   2011-2014
-2. Msc in Financial Mathematics           2014-2016
+1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   2011-2014
+2. Msc in Financial Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2014-2016
 3. Phd in Engineering: Computer Science   2017-now
 
 ## Publications
 Published papers:
-1. Ruymbeek, K, Vanroose, W. Algorithm for the reconstruction of dynamic objects in CT-scanning using optical flow. Journal of Computational and Applied Mathematics 367 (2020): 112459. [pdf]{https://arxiv.org/pdf/1905.00723.pdf}
-2. Ruymbeek, K, Meerbergen, K, Michiels, W. Calculating the minimal/maximal eigenvalue of symmetric parameterized matrices using projection. Numer Linear Algebra Appl. 2019; 26:e2263 
+1. Ruymbeek, K, Vanroose, W. Algorithm for the reconstruction of dynamic objects in CT-scanning using optical flow. Journal of Computational and Applied Mathematics 367 (2020): 112459. [pdf](https://arxiv.org/pdf/1905.00723.pdf)
+2. Ruymbeek, K, Meerbergen, K, Michiels, W. Calculating the minimal/maximal eigenvalue of symmetric parameterized matrices using projection. Numer Linear Algebra Appl. 2019; 26:e2263 [pdf](https://arxiv.org/pdf/1904.09923.pdf)
+
+Preprints:
+1. Ruymbeek, K, Meerbergen, K, Michiels, W. Tensor-Krylov method for computing eigenvalues of parameter-dependent matrices
+[pdf](https://arxiv.org/pdf/2006.07473.pdf)
+
+## Talks
+1. NASCA'18, July 2-6 2018, Kalamata, Greece: Title: ‘Projection method for approximating the minimal eigenvalue of parametrized symmetric matrices’
+2. ICIAM’19, July 15-19 2019, Valencia, Spain: Title: ‘Projection method for approximating the expected value and variance of the minimal/maximal eigenvalue'
+3. ApplMath'20, September 14-18 2020, Brijuni, Croatia: Title: 'Tensor-Krylov methods for parametrized eigenvalue problems'
 
 
 
