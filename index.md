@@ -1,6 +1,6 @@
 ## Biography
 
-![foto_Koen](afb_fb.png){:height="200px" width="200px" align="left"}
+![foto_Koen](afb_fb.png){:height="200px" width="200px" align="left"} &nbsp;&nbsp;&nbsp;&nbsp
 
 I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace methods for eigenvalue problems.
 
@@ -14,7 +14,10 @@ On my [github page](https://github.com/rkuoyemnbeek), you can find the code used
 3. Tensor decompositions
 4. Algorithms for CT-scanning
 
-
+## Education
+1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp 2011-2014
+2. Msc in Financial Mathematics &nbsp;&nbsp;&nbsp;&nbsp 2014-2016
+3. Phd in Engineering: Computer Science &nbsp;&nbsp;&nbsp;&nbsp 2017-now
 
 
 ## Welcome to GitHub Pages
