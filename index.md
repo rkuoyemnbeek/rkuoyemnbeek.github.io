@@ -13,6 +13,7 @@ In my free time I followed the course on discrete optimisation on [coursera](htt
 2. Eigenvalue problems
 3. Tensor decompositions
 4. Algorithms for CT-scanning
+5. Discrete Optimization (free time)
 
 # Education
 1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 2011-2014
