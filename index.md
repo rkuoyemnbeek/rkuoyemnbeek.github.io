@@ -5,7 +5,8 @@ I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace 
 
 For my masters thesis, I worked on algorithms for CT-scanning (something completely different, but nevertheless very interesting!).
 
-On my [github-page](https://github.com/rkuoyemnbeek), you can find the code used in my publications and some other smaller projects.
+On my [github-page](https://github.com/rkuoyemnbeek/code_papers), you can find the code used in my publications.
+In my free time I followed the course on discrete optimisation on [coursera]{https://www.coursera.org/learn/discrete-optimization}, 
 
 # Interests:
 1. Numerical Linear Algebra
