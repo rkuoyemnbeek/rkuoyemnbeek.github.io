@@ -28,7 +28,7 @@ Preprints:
 1. Ruymbeek, K, Meerbergen, K, Michiels, W. Tensor-Krylov method for computing eigenvalues of parameter-dependent matrices
 [pdf](https://arxiv.org/pdf/2006.07473.pdf)
 2. Ruymbeek, K, Meerbergen, K, Michiels, W. Subspace method for multiparameter-eigenvalue problems based
-on tensor-train representations [pdf]{https://arxiv.org/pdf/2012.00815.pdf}
+on tensor-train representations [pdf](https://arxiv.org/pdf/2012.00815.pdf)
 
 # Talks
 1. NASCA'18, July 2-6 2018, Kalamata, Greece: Title: ‘Projection method for approximating the minimal eigenvalue of parametrized symmetric matrices’ [slides](http://nasca18.math.uoa.gr/fileadmin/nasca18.math.uoa.gr/uploads/talks/talk_Koen_Ruymbeek.pdf)
