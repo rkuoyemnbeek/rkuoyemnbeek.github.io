@@ -37,7 +37,7 @@ on tensor-train representations [pdf](https://arxiv.org/pdf/2012.00815.pdf)
 
 # Contact
 
-[![linkedin](linkedin.png){:height="60px" width="60px" align="left"}](https://www.linkedin.com/in/koen-ruymbeek-449673114/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![github](github-logo.png){:height="60px" width="60px" align="left"}](https://github.com/rkuoyemnbeek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![mail](mail.png){:height="60px" width="60px" align="left"}](mailto:koen.ruymbeek@hotmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![google_scholar](google_scholar-logo.png){:height="60px" width="60px" align="left"}](https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ)
+[![linkedin](linkedin.png){:height="30px" width="30px" align="left"}](https://www.linkedin.com/in/koen-ruymbeek-449673114/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![github](github-logo.png){:height="30px" width="30px" align="left"}](https://github.com/rkuoyemnbeek) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![mail](mail.png){:height="30px" width="30px" align="left"}](mailto:koen.ruymbeek@hotmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![google_scholar](google_scholar-logo.png){:height="30px" width="30px" align="left"}](https://scholar.google.be/citations?hl=nl&user=u4nZipAAAAAJ)
 
 <!--- ## Welcome to GitHub Pages
 
