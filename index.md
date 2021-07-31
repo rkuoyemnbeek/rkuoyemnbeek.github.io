@@ -1,7 +1,8 @@
 # Biography
 ![foto_Koen](github_foto.png){:height="200px" width="200px" align="left"} 
 
-I am a Phd candidate at the NUMA research unit at KU Leuven working on subspace methods for eigenvalue problems.
+I have a Postdoc-position at UAntwerpen, working on Recommender Systems.
+Before that, I was a Phd candidate at the NUMA research unit at KU Leuven working on subspace methods for eigenvalue problems.
 For my masters thesis, I worked on algorithms for CT-scanning (something completely different, but nevertheless very interesting!).
 
 On my [github-page](https://github.com/rkuoyemnbeek/code_papers), you can find the code used in my publications.
@@ -13,11 +14,13 @@ In my free time I followed the course on discrete optimisation on [coursera](htt
 3. Tensor decompositions
 4. Algorithms for CT-scanning
 5. Discrete Optimization (free time)
+6. Recommender systems
 
 # Education
 1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 2011-2014
 2. Msc in Financial Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2014-2016
-3. Phd in Engineering: Computer Science   2017-now
+3. Phd in Engineering: Computer Science   2017-2021
+4. Postdoc at UAntwerpen
 
 # Publications
 Published papers:
