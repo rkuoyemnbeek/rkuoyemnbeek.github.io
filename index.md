@@ -20,7 +20,7 @@ In my free time I followed the course on discrete optimisation on [coursera](htt
 1. Bsc in Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 2011-2014
 2. Msc in Financial Mathematics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  2014-2016
 3. Phd in Engineering: Computer Science   2017-2021
-4. Postdoc at UAntwerpen            2021 - now
+4. Postdoc at UAntwerpen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021 - now
 
 # Publications
 Published papers:
